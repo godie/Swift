@@ -1,3 +1,6 @@
 [submodule "foo/bar"]
 	path = foo/bar
 	url = https://github.com/godie/HorizontalScrolling.git
+[submodule "HorizontalScrolling"]
+	path = HorizontalScrolling
+	url = https://github.com/godie/HorizontalScrolling.git
